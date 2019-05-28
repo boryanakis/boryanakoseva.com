@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John K Kelly on Boryana Koseva, Ph.D.</title>
+    <link>/authors/john-k-kelly/</link>
+    <description>Recent content in John K Kelly on Boryana Koseva, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/john-k-kelly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The genetic breakdown of sporophytic self-incompatibility in Tolpis coronopifolia (Asteraceae)</title>
+      <link>/publication/koseva-2017-genetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/koseva-2017-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high-resolution genetic map of yellow monkeyflower identifies chemical defense QTLs and recombination rate variation</title>
+      <link>/publication/holeski-2014-high/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/holeski-2014-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genomic signal of partial sweeps in Mimulus guttatus</title>
+      <link>/publication/kelly-2013-genomic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kelly-2013-genomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
