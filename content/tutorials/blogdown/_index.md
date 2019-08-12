@@ -16,7 +16,7 @@ weight: 1
 
 
 {{% alert note %}}
-This tutorial will be published in June 2019. Thank you for your patience. 
+This tutorial will be published in August 2019. Thank you for your patience. 
 {{% /alert %}}
 
 ### Purpose of the Workshop
